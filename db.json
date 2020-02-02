@@ -202,69 +202,6 @@
     "rating": 0,
     "image": "https://via.placeholder.com/300",
     "description": "Voluptate mollit consequat Lorem cupidatat ullamco minim non ipsum do commodo sint eu quis. Ullamco est labore sit reprehenderit veniam laboris do elit et officia magna anim voluptate. Esse do nostrud minim ex mollit fugiat quis reprehenderit velit."
-  },
-  {
-    "id": 30,
-    "name": "Shannon",
-    "rating": 0,
-    "image": "https://via.placeholder.com/300",
-    "description": "Labore eiusmod laborum veniam officia nostrud ad id esse sint ullamco in labore eiusmod ex. Lorem labore duis qui anim ad occaecat cillum duis sunt cillum. Exercitation do proident ex id minim deserunt et fugiat et sit magna."
-  },
-  {
-    "id": 31,
-    "name": "Kathie",
-    "rating": 5,
-    "image": "https://via.placeholder.com/300",
-    "description": "Excepteur qui nisi id ut dolor nisi esse eiusmod ut laboris elit do culpa. Adipisicing officia pariatur et est ipsum sint quis reprehenderit eiusmod sint anim tempor dolor. Mollit consectetur voluptate consequat qui ea labore dolore."
-  },
-  {
-    "id": 32,
-    "name": "Cole",
-    "rating": 4,
-    "image": "https://via.placeholder.com/300",
-    "description": "Pariatur consectetur et duis enim eiusmod duis fugiat cillum reprehenderit do. Culpa tempor Lorem exercitation aute eu ad do fugiat labore esse ad est ad. Reprehenderit labore sunt do cillum ipsum anim ut sunt laborum."
-  },
-  {
-    "id": 33,
-    "name": "Tricia",
-    "rating": 2,
-    "image": "https://via.placeholder.com/300",
-    "description": "Quis consequat qui non velit consequat. Incididunt reprehenderit consectetur consequat proident mollit proident est reprehenderit elit tempor cillum. Officia irure anim nostrud sint duis nostrud magna pariatur exercitation aliquip."
-  },
-  {
-    "id": 34,
-    "name": "Alfreda",
-    "rating": 4,
-    "image": "https://via.placeholder.com/300",
-    "description": "Id reprehenderit ad laboris officia. Sit id non id culpa sint cupidatat et in esse labore occaecat esse do ea. Laboris labore culpa velit cupidatat deserunt sit laborum anim eu minim voluptate nisi."
-  },
-  {
-    "id": 35,
-    "name": "Bates",
-    "rating": 2,
-    "image": "https://via.placeholder.com/300",
-    "description": "Ea consectetur adipisicing in sit dolore proident culpa fugiat Lorem. Do veniam sint elit mollit sint velit amet dolore sit esse laboris voluptate voluptate exercitation. Mollit anim ea ut exercitation officia magna tempor occaecat eu sit."
-  },
-  {
-    "id": 36,
-    "name": "Denise",
-    "rating": 5,
-    "image": "https://via.placeholder.com/300",
-    "description": "Qui ullamco aliquip sint sint. Irure ipsum ad cillum laboris consequat voluptate reprehenderit. Excepteur commodo enim laborum enim incididunt non."
-  },
-  {
-    "id": 37,
-    "name": "Clarissa",
-    "rating": 1,
-    "image": "https://via.placeholder.com/300",
-    "description": "Minim anim irure dolor commodo id et cupidatat nulla proident quis excepteur est. Labore qui nulla velit ea sunt sit consectetur quis esse nostrud sunt ullamco. Excepteur incididunt nisi deserunt Lorem ex tempor sint pariatur."
-  },
-  {
-    "id": 38,
-    "name": "Annmarie",
-    "rating": 1,
-    "image": "https://via.placeholder.com/300",
-    "description": "Ex dolore dolore officia aliqua tempor amet in anim nostrud quis do esse tempor quis. Magna aute cupidatat quis eu ut enim laborum reprehenderit in ad consectetur. Ut ad non deserunt incididunt Lorem commodo enim nulla officia tempor incididunt."
   }
 ]
 }
